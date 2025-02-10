@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "When it comes to AI, the state should step aside"
+date:   2025-02-07 19:25:51 +0000
+categories: jekyll update
+---
+This week saw the release of Alibaba’s artificial intelligence model, Qwen 2.5, which hopes to surpass DeepSeek and cement China’s lead in artificial intelligence. Meanwhile in the US, the Stargate Project announced by Donald Trump is set to receive an investment of $500 billion by 2029 and will build up to 20 large datacentres in the US. AI has produced a new wave of enthusiasm for sector-specific industrial strategies, both in the UK and around the world as governments rush to secure a place in the new world order which it seems poised to deliver. There have been benefits to this arms race, but the familiar problems with interventionist industrial policy remain prevalent. 
+
+The history of British industrial policy is a gruesome one, laden with the rotting corpses of companies and sectors which consumed wads of taxpayer money and resources without producing much in return. Examples abound, but particularly notable is Concorde and supersonic flight, which many saw as the future of air travel. Not only did supersonic flight fail to catch on, but the project consumed an eye-watering £16bn before being condemned to the scrapheap. Supersonic passenger airlines may finally be about to take off, but the main innovation is coming from a startup in Colorado, not industry giants in Toulouse or London. 
+
+The example of Concorde shows that there are good reasons for why government should avoid playing central planner – ministers and civil servants are rarely adept at picking future winners, and even when high-growth sectors are correctly identified, politicians struggle to avoid the temptation to meddle in ways which may boost their electoral fortunes. 
+
+The attempts to boost the UK’s artificial intelligence sector have been accompanied by a lot of good – the UK Government has used it as veil for restoring private sector competitiveness and reining back environmental commitments which have hampered recent economic growth. The projected energy demands of artificial intelligence have also spurred action to invest in energy projects, such as Small Modular Reactors, which will reduce long-term prices and benefit both consumers and industry. These are all policies which will broadly improve productivity and are associated with few market distortions. There are, however, many elements of the Government’s AI strategy that will create a divergence in the business and investment conditions faced by AI companies versus those in other sectors, while also extending the productivity gap between the Southeast of England and other regions. 
+
+There is no reason to suspect that the UK has any competitive advantage in artificial intelligence projects, as opposed to sectors such as pharmaceuticals, education or insurance, where Britain has an equally strong track record of successful private enterprise. There are risks to prioritising AI at the expense of other industries. It is quite easy to imagine a world in which almost all model training & development occurs within Silicon Valley, with a smaller cluster of AI companies in Hangzhou (the Chinese city where the AI company DeepSeek as well as Chinese tech giant Alibaba are based). Or perhaps AI will revolutionise the workplace, but will take another 50 years to do so. Concorde illustrates that being wrong on the timing of innovation is as damaging as being wrong on the direction. 
+
+The current plan also raises an important question about the Government’s plan for growth – if policymakers believe the planning permission system and energy costs are the main obstacles to economic growth, why restrict their reform to one sector? Why have a new Fulbright fellowship, or special regulatory exemptions for AI but not for the insurance industry, where British companies have traditionally played an outsized role? Why not accompany the Oxford-Cambridge-centric AI plan with a music-opportunity zone spanning Merseyside to Manchester? The Government should provide equal opportunity to all industries and areas rather than trying to guess where future growth lies. 
+
+There are ways in which the state can help industry prosper, such as by reducing energy costs, lowering the tax burden or ensuring regulation is predictable and fair, but after achieving these core functions, it should clear the path and then move out the way rather than attempting to steer the future direction of the economy. To do the opposite ignores the important role of markets in allocating resources, and the fallibility of individuals.
+
+---
+*Originally posted on the blog [CapX](https://capx.co/when-it-comes-to-ai-the-state-should-step-aside).*
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
